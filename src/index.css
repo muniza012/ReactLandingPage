@@ -5,7 +5,7 @@
 
 .main{
   background: url('./assets/heroImg.jpg');
-  min-height: 140dvh;
+  min-height: 120dvh;
   background-size: cover;
   background-position: center;
   overflow: hidden;
